@@ -1,10 +1,10 @@
-/*(function () {
+(function () {
   'use strict';
 
   angular.module('myapp', [])
 
-  .controller('HelloController', function($scope){
+.controller('HelloController', function($scope){
 
   })
 
-})();*/
+})();
